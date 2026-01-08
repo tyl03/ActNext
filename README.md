@@ -1,3 +1,8 @@
+This is a fork of [AmaliaEG/ActNext](https://github.com/AmaliaEG/ActNext).  
+I contributed to this project as part of a group effort.
+
+---
+
 # Actnxt Frontend application
 This repository hosts the frontend of the Actnxt mobile application, and was developed by DTU Students \{names\} as our Software Technology Project course on our 4th semester at DTU.
 ## Documentation
